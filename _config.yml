@@ -1,0 +1,15 @@
+---
+title: Roland Lazarte
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: |
+  {{site.description}}.
+baseurl: 
+url: http://anin.ag
+markdown: kramdown
