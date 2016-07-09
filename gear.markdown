@@ -3,6 +3,7 @@ title: Gear
 date: 2016-07-09 17:37:00 Z
 ---
 
+## Camera
 RED Weapon MG 6K
 
 ## Lenses
