@@ -8,11 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: {}
 description: |
   {{site.description}}.
-baseurl: ''
+baseurl: 
 url: http://anin.ag
-twitter_username: {}
-github_username: {}
 markdown: kramdown
