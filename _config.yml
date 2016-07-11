@@ -8,8 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: |
-  {{site.description}}.
+description: Portfolio of Roland Lazarte
 baseurl: 
 url: http://anin.ag
 markdown: kramdown
