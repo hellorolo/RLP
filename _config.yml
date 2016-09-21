@@ -10,5 +10,5 @@ collections:
     output: true
 description: Portfolio of cinematographer Roland Lazarte
 baseurl: 
-url: http://rolandlazarte.com
+url: 
 markdown: kramdown
